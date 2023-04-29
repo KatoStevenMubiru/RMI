@@ -1,3 +1,6 @@
 {
-  "java.project.sourcePaths": ["Client"]
+  "java.project.sourcePaths": [
+    "Client",
+    "Server"
+  ]
 }
